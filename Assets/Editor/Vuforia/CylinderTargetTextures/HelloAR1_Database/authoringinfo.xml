@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="Xiaowanzi" version="3.0" targetId="28ab4b70d2d742c8bab22ff222190af2" sideLength="20.000000" topDiameter="10.000000" bottomDiameter="10.000000" sideImage="Xiaowanzi.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
